@@ -1,2 +1,2 @@
-My Ipython Notebooks
+My IPython Notebooks
 ====================
