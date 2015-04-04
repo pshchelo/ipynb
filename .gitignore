@@ -1,6 +1,7 @@
 *.py
-.ipynb_checkpoints/
 *token*
 *slides*.html
-reveal*/*
 *Untitled*
+.ipynb_checkpoints/
+IPython-notebook-extensions/
+RISE/
