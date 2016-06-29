@@ -1,0 +1,11 @@
+ipython>=4.0
+jupyter
+ipdb
+PySide
+numpy
+matplotlib
+pandas
+scipy
+networkx
+Cython
+sympy
