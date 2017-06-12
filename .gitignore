@@ -3,6 +3,4 @@
 *slides*.html
 *Untitled*
 .ipynb_checkpoints/
-IPython-notebook-extensions/
-RISE/
-reveal.js/
+.tox/
