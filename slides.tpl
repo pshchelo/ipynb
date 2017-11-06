@@ -14,8 +14,6 @@ Reveal.initialize({
     // specified using percentage units.
     //width: 960,
     //height: 700,
-    width: 100%,
-    heigh: 100%,
 
     // Factor of the display size that should remain empty around the content
     //margin: 0.1,
@@ -29,7 +27,6 @@ Reveal.initialize({
 
     // Display controls in the bottom right corner
     //controls: true,
-    controls: false,
 
     // Display a presentation progress bar
     //progress: true,
@@ -65,7 +62,6 @@ Reveal.initialize({
 
     // Transition style
     //transition: 'concave', // default/cube/page/concave/zoom/linear/fade/none
-    transition: 'cube'
 
     // Transition speed
     //transitionSpeed: 'default', // default/fast/slow
@@ -74,8 +70,7 @@ Reveal.initialize({
     //backgroundTransition: 'default', // default/linear/none
 
     // Theme
-    //theme: 'pshchelo' // available themes are in /css/theme
-    
+    //theme: 'simple' // available themes are in /css/theme
 });
 
 </script>
