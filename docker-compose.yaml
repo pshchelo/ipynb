@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  notebook:
+    image: "pshchelo/alpine-jupyter-minimal-py3"
+    container_name: jupyter
+    hostname: jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - "${PWD}/notebooks:/notebooks"
